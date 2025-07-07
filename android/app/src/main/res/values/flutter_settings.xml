@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Disable Impeller renderer to fix blur effect crashes -->
+    <string name="flutter_renderer">skia</string>
+    <bool name="enable_impeller">false</bool>
+</resources>
